@@ -16,6 +16,7 @@
 		2E7CD9F01A3844740053D503 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E7CD9EF1A3844740053D503 /* Images.xcassets */; };
 		2E7CD9F31A3844740053D503 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E7CD9F11A3844740053D503 /* LaunchScreen.xib */; };
 		2E7CD9FF1A3844740053D503 /* TopVCTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E7CD9FE1A3844740053D503 /* TopVCTestTests.m */; };
+		2EF563171A403B8F00F54CD2 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF563161A403B8F00F54CD2 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		2E7CD9F81A3844740053D503 /* TopVCTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TopVCTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E7CD9FD1A3844740053D503 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E7CD9FE1A3844740053D503 /* TopVCTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TopVCTestTests.m; sourceTree = "<group>"; };
+		2EF563151A403B8F00F54CD2 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		2EF563161A403B8F00F54CD2 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +99,8 @@
 				2E333C4F1A38469B00DFB752 /* TopViewUtils.h */,
 				2E333C501A38469B00DFB752 /* TopViewUtils.m */,
 				2E7CD9EC1A3844740053D503 /* Main.storyboard */,
+				2EF563151A403B8F00F54CD2 /* Test.h */,
+				2EF563161A403B8F00F54CD2 /* Test.m */,
 				2E7CD9EF1A3844740053D503 /* Images.xcassets */,
 				2E7CD9F11A3844740053D503 /* LaunchScreen.xib */,
 				2E7CD9E21A3844740053D503 /* Supporting Files */,
@@ -232,6 +237,7 @@
 				2E333C4E1A3845FC00DFB752 /* SecondViewController.m in Sources */,
 				2E7CD9E81A3844740053D503 /* AppDelegate.m in Sources */,
 				2E333C4B1A3845F300DFB752 /* FirstViewController.m in Sources */,
+				2EF563171A403B8F00F54CD2 /* Test.m in Sources */,
 				2E7CD9E51A3844740053D503 /* main.m in Sources */,
 				2E333C511A38469B00DFB752 /* TopViewUtils.m in Sources */,
 			);
