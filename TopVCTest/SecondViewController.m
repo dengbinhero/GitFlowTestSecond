@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
 }
 
+//修复了一个补丁
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
